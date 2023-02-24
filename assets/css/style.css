@@ -11501,6 +11501,12 @@ pre .code {
 .footer {
   background: #17263C;
 }
+.view{
+  color: white !important;
+}
+.vie:hover{
+  color: white !important;
+}
 
 .header {
   position: relative;
